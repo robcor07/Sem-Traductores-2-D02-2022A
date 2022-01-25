@@ -1,0 +1,1 @@
+# Sem-Traductores-2-D02-2022A
