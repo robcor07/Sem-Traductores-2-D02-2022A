@@ -15,3 +15,26 @@ En esta etapa agregue dos pushbuttons a mi interfaz uno para cada ejercicio.
 
 Las tablas de gramaticas contienen desplazamientos,reglas y 0's. Cuando se encuentra un desplazamiento se agrega el elemento analizado y el desplazamiento a la pila. Cuando se encuentra una regla se libera el espacio correspondiente en la pila y se agrega una E, inmediatamente se vuelve a checar la tabla con los dos ultimos valores de la pila para agregar un nuevo elemento a la pila.Se obtiene un error de gramatica cuando se ob tiene un 0 en la tabla. El objetivo del analisis sintactico es analizar los simbolos obtenidos a base de la tabla de gramatica hasta encontrar un error o una regla r0 lo cual indica que la gramatica es correcta.
 
+Interfaz actualizada con dos botones adicionales para los 2 ejercicios
+
+![image](https://user-images.githubusercontent.com/88813815/153123830-66126a9f-c60e-421f-84b1-ef7a616c5234.png)
+
+Ejercicio 1 Hola + Mundo
+
+![image](https://user-images.githubusercontent.com/88813815/153123981-45a7ae37-6ed4-4fbf-bef8-529a107c8059.png)
+
+![image](https://user-images.githubusercontent.com/88813815/153124022-530e4aa0-c034-428b-99b4-85b22613b84b.png)
+
+
+Ejercicio 2 a+b+c+d+e+f
+
+![image](https://user-images.githubusercontent.com/88813815/153124082-ff5539ed-c802-4b3c-98c9-684b5a3410c5.png)
+![image](https://user-images.githubusercontent.com/88813815/153124270-abc7b3b0-0829-43b1-a390-389eda41a1f6.png)
+![image](https://user-images.githubusercontent.com/88813815/153124347-6b0c8352-73d9-4832-a7f1-e483cd519b5d.png)
+![image](https://user-images.githubusercontent.com/88813815/153124414-19c1f2a8-8807-4d8b-a731-5eb1a4cac649.png)
+![image](https://user-images.githubusercontent.com/88813815/153124449-bc4a8bab-7e17-464b-9fa6-b653379645a5.png)
+
+
+
+
+
