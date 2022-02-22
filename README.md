@@ -1,4 +1,4 @@
-2/2/2022 Coronel Gonzalez Roberto Manuel 214771077 Mini analizador Sintactico_objetos.
+2/21/2022 Coronel Gonzalez Roberto Manuel 214771077 Mini analizador Sintactico_objetos.
 
 Este proyecto fue desarollado usado el lenguaje de programacion c++ y el compilador Qt.
 
