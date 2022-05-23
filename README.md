@@ -4,7 +4,7 @@ Proyecto Final
 Esta es la ultima etapa de mi compilador consiste en un analizador lexico, gramatica de compilador integrada, analizador sintactico, arbol sintactico, analizador semantico y generacion de codigo de ensamblador.
 Para esta ultima etapa genero un archivo .asm para posteriormente ejecutarlo en en programa de ensamblador esto con el proposito de ejecutar el codigo que se analizo.
 
-Este proyecto fue creado con c++ y qt.
+Este proyecto fue creado con c++ y qt. El codigo de ensamblador generado fue ejecutado con emu8086.
 
 Actualmente mi programa es capaz de generar sumas y restas de enteros.
 
